@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 - 🌱 Melhorando minhas habilidades em back-end.
 - ⚡ Tecnologias: Angular2+, Java, Spring Framework, JPA, Hibernate, MySQL, C/C++, Delphi.
-- 📚 Bootcamp Java Web Fullstack da Generation Brasil, 02/2020 - 07/2020.
+- 📚 Bootcamp Java Web Fullstack - Generation Brasil, 02/2020 - 07/2020.
 - 📚 Sistemas de Informação - UNIVERSIDADE BRASIL, 02/2019 - 12/2022.
