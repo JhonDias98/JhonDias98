@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 - 📚 Bootcamp Java Web Fullstack - Generation Brasil, 02/2020 - 07/2020.
 - 📚 Sistemas de Informação - UNIVERSIDADE BRASIL, 02/2019 - atualmente.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonDias98&show_icons=true&theme=dark&langs_count=8&layout=compact" alt="JhonDias98 stats" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=JhonDias98&show_icons=true&theme=dark&locale=en&include_all_commits=true" alt="JhonDias98" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JhonDias98&show_icons=true&theme=dark&locale=en&include_all_commits=true" alt="JhonDias98" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonDias98&show_icons=true&theme=dark&langs_count=8&layout=compact" alt="JhonDias98 stats" /></p>
